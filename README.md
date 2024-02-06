@@ -5,9 +5,9 @@ Criação de 3 containers utilizando o docker-compose. O docker-compose irá atu
 ### **Banco de Dados (mysql)** ###
 
 ### **App Node.js** ###
-       o (porta 3000 somente visível na network do docker)
+*(porta 3000 somente visível na network do docker)
 
-       o Irá conectar ao banco de dados e realizar as operações de Insert e Select na tabela people.
+*Irá conectar ao banco de dados e realizar as operações de Insert e Select na tabela people.
 
        o Irá responder as requisições feitas ao nginx na porta 8080.
 
