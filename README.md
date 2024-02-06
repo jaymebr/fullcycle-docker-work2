@@ -21,4 +21,4 @@ Irá servir de proxy reverso, onde o usuário irá acessar a porta 8080 localhos
 # Execução
 
 Para executar o container execute no terminal na raiz do projeto:  
-                ```docker-compose up -d –build ```
+                **docker-compose up -d –build**
