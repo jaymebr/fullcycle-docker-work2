@@ -2,7 +2,7 @@
 
 Criação de 3 containers utilizando o docker-compose. O docker-compose irá atualizar as imagens dos containers e vai gerar o banco de dados vazio inclusive com a tabela que será utilizada para os cadastros.
 
-## **Banco de Dados (mysql)**
+## **Banco de Dados (mysql)** ##
 ## **App Node.js**
 ### ***(porta 3000 somente visível na network do docker)***
 ### **(porta 3000 somente visível na network do docker)**
