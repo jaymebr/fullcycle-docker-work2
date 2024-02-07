@@ -13,12 +13,6 @@ RUN npm install --save-dev @faker-js/faker && \
     chmod +x /usr/bin/wait-for
 
 
-
-#USER node
-
-#WORKDIR /home/node/app
-
-
 COPY . .
 
 EXPOSE 3000
